@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Amazon_web_Automation">
+	<listeners>
+		<listener class-name="utility.Listener" />
+	</listeners>
+	<test name="Amazon_product_search">
+		<classes>
+			
+			<class name="testCases.Amazon_TestCase" />
+			
+
+		</classes>
+	</test> 
+</suite>
