@@ -2,6 +2,8 @@
 - Open Eclipse
 	- File -> Import -> Existing Maven Project -> Navigate to the project folder
 	- Select the right project
+- Get TestNG from Eclipse marketplace
+	- Help -> Eclipse Marketplace -> Search TestNG for Eclipse -> Install
 - Right click on the application 
 	- Run As -> TestNG
 - For report
